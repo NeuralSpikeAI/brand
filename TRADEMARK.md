@@ -14,7 +14,7 @@ You may use the Marks, without prior approval, to:
 - Indicate an existing partnership, integration, or sponsorship
 - Illustrate press articles, presentations, or event materials
 
-All use must follow the [Visual Identity Manual](./NeuralSpike Visual Identity Manual.pdf).
+All use must follow the [Visual Identity Manual](<./NeuralSpike Visual Identity Manual.pdf>).
 
 ## Not permitted
 You may not:
